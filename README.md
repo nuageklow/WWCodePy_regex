@@ -7,7 +7,7 @@ For beginners with fundamental Python knowledge, we will cover Basic RegEx Struc
 
 
 # Materials  
-Session 1 -  
+Session 1 - Introduction of Regular Expression
 * [slides](/slides/Regex%20Workshop%20Series%20-%20Session%201.pdf)  
 
 
