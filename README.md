@@ -7,10 +7,19 @@ For beginners with fundamental Python knowledge, we will cover Basic RegEx Struc
 
 
 # Materials  
-Session 1 - Introduction of Regular Expression
+Study group materials
+__Session 1 - Introduction of Regular Expression__  
 * [slides](/slides/Regex%20Workshop%20Series%20-%20Session%201.pdf)  
 
 
+# Resources / Useful Links  
+List of useful links and reading materials to enhance your regex skill  
+* [Regex101 - popular online website to test out your regex pattern](https://regex101.com/)  
+* [Mastering Regular Expression (book)](https://www.oreilly.com/library/view/mastering-regular-expressions/0596528124/)
 
 
 
+# Regex Fun Games:video_game:  
+What's better than practicing your technical skills in playing games? 
+* [Regex Crossword](https://regexcrossword.com/)  
+* [Regex Golf](https://alf.nu/RegexGolf?world=regex&level=r00)  
