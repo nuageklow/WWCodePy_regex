@@ -1,0 +1,20 @@
+Chocolate Chip Cookies Recipe for <numServing> servings
+Last Updated: <date>
+
+<numButter> g butter, softend
+<numBrownSugar> g light brown sugar
+<numCasterSugar> g golden caster sugar
+<numEgg> medium egg
+<numVanilla> tsp vanilla extract
+<numFlour> g plain flour
+<numSoda> tsp bicarbonate of soda
+<numChocolate> g dark chocolate, cut into chunks
+
+
+STEP 1
+
+Heat oven to 180C/160C fan/gas 4 and line two baking sheets with parchment. Cream the butter and sugars together until very light and fluffy, then beat in the egg and vanilla. Once combined, stir in the flour, bicarb, chocolate and <numSalt> tsp salt.
+
+STEP 2
+
+Scoop <numServing> large tbsps of the mixture onto the trays, leaving enough space between each to allow for spreading. Bake for 10-12 mins or until firm at the edges but still soft in the middle – they will harden a little as they cool. Leave to cool on the tray for a few mins before eating warm, or transfer to a wire rack to cool completely. Will keep for three days in an airtight container.

@@ -6,10 +6,19 @@
 For beginners with fundamental Python knowledge, we will cover Basic RegEx Structure, introduction of Regular Expression and Language, Metacharacter, and RegEx methods in Python, fun RegEx games, and practice questions in this 5-part series.
 
 
-# Materials  
-Study group materials
+# Study group materials  
+Materials introduced during the session
+
 __Session 1 - Introduction of Regular Expression__  
 * [slides](/slides/Regex%20Workshop%20Series%20-%20Session%201.pdf)  
+
+__Session 2 - Metacharacter I__  
+* [slides](/slides/Regex%20Workshop%20Series%20-%20Session%202.pdf)  
+* [python script example - phone number](/examples/ses2_regex_phone.py)   
+
+__Session 3 - Metacharacter II (coming soon)__ 
+
+
 
 
 # Resources / Useful Links  
