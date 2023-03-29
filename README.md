@@ -15,13 +15,13 @@ __Session 1 - Introduction of Regular Expression__
 __Session 2 - Metacharacter I__  
 * [slides](/slides/Regex%20Workshop%20Series%20-%20Session%202.pdf)  
 * [python script example - phone number](/examples/ses2_regex_phone.py)  
-* [excercise](/exercises/Regex%20Workshop%20Series%20-%20Session%202%20-%20practice%20exercises%20v2.pdf)  
+* [exercise](/exercises/Regex%20Workshop%20Series%20-%20Session%202%20-%20practice%20exercises%20v2.pdf)  
 
 
 __Session 3 - Metacharacter II__  
 * [slides](/slides/Regex%20Workshop%20Series%20-%20Session%203.pdf)  
 * [script example - bash script to generate cookie recipe automatically](examples/sec3_changeportion.sh)  
-* [excercise](/exercises/Regex%20Workshop%20Series%20-%20Session%203%20-%20practice%20exercises.pdf)  
+* [exercise](/exercises/Regex%20Workshop%20Series%20-%20Session%203%20-%20practice%20exercises.pdf)  
 
 <!-- __Session 4 - Practice Exercise I__   -->
 
