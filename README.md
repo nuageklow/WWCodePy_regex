@@ -23,8 +23,9 @@ __Session 3 - Metacharacter II__
 * [script example - bash script to generate cookie recipe automatically](examples/sec3_changeportion.sh)  
 * [exercise](/exercises/Regex%20Workshop%20Series%20-%20Session%203%20-%20practice%20exercises.pdf)  
 
-<!-- __Session 4 - Practice Exercise I__   -->
-
+__Session 4 - Practice Exercise I__  
+* [slides](/slides/Regex%20Workshop%20Series%20-%20Session%204.pdf)  
+* [exercise](/exercises/WWCodePyRegex_html.ipynb)
 
 
 
@@ -36,6 +37,6 @@ List of useful links and reading materials to enhance your regex skill
 
 
 # Regex Fun Games:video_game:  
-What's better than practicing your technical skills in playing games? 
+What's better than practicing your technical skills in playing games?
 * [Regex Crossword](https://regexcrossword.com/)  
 * [Regex Golf](https://alf.nu/RegexGolf?world=regex&level=r00)  
