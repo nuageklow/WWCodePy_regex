@@ -27,6 +27,9 @@ __Session 4 - Practice Exercise I__
 * [slides](/slides/Regex%20Workshop%20Series%20-%20Session%204.pdf)  
 * [exercise](/exercises/WWCodePyRegex_html.ipynb)
 
+__Session 5 - Practice Exercise II__  
+* [exercise](/exercises/WWCodePyRegex_twitter.ipynb)
+
 
 
 # Resources / Useful Links  
